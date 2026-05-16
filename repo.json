@@ -21,8 +21,9 @@
 	"LoadSync": false,
 	"CanUnloadAsync": false,
 	"SupportsProfiles": true,
-	"Changelog": "v1.0.0: Initial release",
-	"DownloadLinkInstall": "https://github.com/CaraMacchiato/NoBodyPull/releases/download/1.0.0.0/NoBodyPull.zip",
-	"DownloadLinkUpdate": "https://github.com/CaraMacchiato/NoBodyPull/releases/download/1.0.0.0/NoBodyPull.zip"
+	"Changelog": "v1.0.0.0: Initial release",
+	"DownloadLinkInstall": "https://raw.githubusercontent.com/CaraMacchiato/DalamudRepo/main/plugins/NoBodyPull/latest.zip",
+	"DownloadLinkTesting": "https://raw.githubusercontent.com/CaraMacchiato/DalamudRepo/main/plugins/NoBodyPull/latest.zip",
+	"DownloadLinkUpdate": "https://raw.githubusercontent.com/CaraMacchiato/DalamudRepo/main/plugins/NoBodyPull/latest.zip"
   }
 ]
