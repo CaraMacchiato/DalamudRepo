@@ -1,0 +1,28 @@
+[
+  {
+	"Author": "CaraMacchiato",
+	"Name": "NoBodyPull",
+	"Punchline": "Keep your opener clean by avoiding accidental pre-pulls.",
+	"Description": "Prevents accidentally walking into boss aggro range before a pull. Automatically disables once combat starts.",
+	"InternalName": "NoBodyPull",
+	"AssemblyVersion": "1.0.0.0",
+	"RepoUrl": "https://github.com/CaraMacchiato/DalamudRepo",
+	"ApplicableVersion": "any",
+	"DalamudApiLevel": 15,
+	"Tags": [
+	  "combat",
+	  "utility",
+	  "safety",
+	  "aggro",
+	  "pull"
+	],
+	"LoadPriority": 0,
+	"LoadRequiredState": 2,
+	"LoadSync": false,
+	"CanUnloadAsync": false,
+	"SupportsProfiles": true,
+	"Changelog": "v1.0.0: Initial release",
+	"DownloadLinkInstall": "https://github.com/CaraMacchiato/NoBodyPull/releases/download/1.0.0.0/NoBodyPull.zip",
+	"DownloadLinkUpdate": "https://github.com/CaraMacchiato/NoBodyPull/releases/download/1.0.0.0/NoBodyPull.zip"
+  }
+]
