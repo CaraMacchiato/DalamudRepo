@@ -6,7 +6,7 @@
 	"Description": "Prevents accidentally walking into boss aggro range before a pull. Automatically disables once combat starts.",
 	"InternalName": "NoBodyPull",
 	"AssemblyVersion": "1.0.0.0",
-	"RepoUrl": "https://github.com/CaraMacchiato/DalamudRepo",
+	"RepoUrl": "https://github.com/CaraMacchiato/NoBodyPull",
 	"ApplicableVersion": "any",
 	"DalamudApiLevel": 15,
 	"Tags": [
